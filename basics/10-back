@@ -1,2 +1,2 @@
 #!/bin/bash
-./10-back
+cd /tmp/var/./10-back
