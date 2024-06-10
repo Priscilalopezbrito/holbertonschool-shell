@@ -1,2 +1,2 @@
 #!/bin/bash 
-this text is to confirm the lenght requires at the task number zero \n
+./0-current_working_directory\n
